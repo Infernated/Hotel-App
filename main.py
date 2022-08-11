@@ -1,0 +1,4 @@
+import window
+
+
+window.window()
